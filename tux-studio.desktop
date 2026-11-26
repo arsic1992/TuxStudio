@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Tux Studio
+Comment=Write and run TUX programs
+Exec=/usr/bin/tux-studio %F
+Icon=tux-studio
+Terminal=false
+Categories=Development;IDE;
+MimeType=text/x-tux;
